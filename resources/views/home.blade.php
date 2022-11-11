@@ -12,7 +12,7 @@
 <div class="resume">
    <div class="resume_left">
      <div class="resume_profile">
-       <img src="{{asset('foto.JPG')}}" alt="profile_pic">
+       <img src="{{asset('foto.jpg')}}" alt="profile_pic">
      </div>
      <div class="resume_content">
        <div class="resume_item resume_info">
